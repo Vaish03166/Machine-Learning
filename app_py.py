@@ -101,4 +101,4 @@ st.sidebar.markdown(
     """
 )
 st.sidebar.markdown("---")
-st.sidebar.caption("The deployment utilizes Streamlit and a serialized model (`medical_cost_stack.pkl`).")
+st.sidebar.caption("The deployment utilizes Streamlit and a serialized model (`medical_cost_pipeline.pkl`).")
